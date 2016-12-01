@@ -1,5 +1,25 @@
 .home-selection {
-  margin-top: 25%; }
+  margin-top: 25%;
+  font-weight: 900;
+  font-size: 20px;
+}
+
+
+.selectionLong {
+  text-align: center;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  background-color: black;
+}
 
 /* Media queries */
 /* Extra small devices (phones, less than 768px) -> default in Bootstrap */
