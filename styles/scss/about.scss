@@ -1,0 +1,17 @@
+@import "partials/normalize";
+@import "partials/variable";
+
+.about {
+
+  body {
+    font-size: 1.1em;
+  }
+
+  h1 {
+    font-size: 2em;
+  }
+
+  .cv_sub {
+    font-weight: bold;
+  }
+}
