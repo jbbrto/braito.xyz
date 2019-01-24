@@ -1,8 +1,24 @@
-$screen-sm-min: 768px;
-$screen-md-min: 992px;
-$screen-lg-min: 1200px;
 
-.home-selection {
-    margin-top: 25%;
+/* Google Font Roboto Mono */
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:400,400i,700,700i');
 
-}
+
+/* Font Families */
+$font-family-nav: 'Helvetica Neue', Arial, sans-serif;
+$font-family-title: 'Helvetica Neue', Arial, sans-serif;
+$font-family-main: 'Roboto Mono', monospace;
+
+/* Font sizes main */
+$font-size-h1: 2em;
+$font-size-main: 1em;
+
+
+/* Font sizes nav */
+$font-size-nav-xs: 2.1em;
+$font-size-nav-sm: 1.2em;
+$font-size-nav-md: 1.25em;
+$font-size-nav-lg: 1.25em;
+$font-size-nav-xl: 1.25em;
+
+$margin-screen-tb: 2%;
+$margin-screen-rl: 3%;
