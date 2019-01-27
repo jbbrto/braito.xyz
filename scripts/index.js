@@ -3,7 +3,7 @@
 
 // Generate random background color + complimentary link-color
 function random_bg_color() {
-    var v = Math.floor(Math.random()*5);
+    var v = Math.floor(Math.random()*6);
 
 
     if(v==0) {
