@@ -396,7 +396,17 @@ template {
 /* Font sizes nav */
 body {
   padding: 0 0 0 0;
-  /* unstyled list */ }
+  backgbround-color: blue;
+  /* unstyled list */
+  /*
+  a:visited {
+    color: black;
+  }
+
+  a:hover {
+    background-color: black;
+  }
+  */ }
   body header {
     font-family: "Helvetica Neue", Arial, sans-serif;
     position: fixed;
@@ -432,10 +442,6 @@ body {
   body a:link {
     color: black;
     text-decoration: none; }
-  body a:visited {
-    color: black; }
-  body a:hover {
-    background-color: black; }
 
 .home-nav {
   font-family: "Helvetica Neue", Arial, sans-serif;
