@@ -1,8 +1,5 @@
-
-
-
 // Generate random background color + complimentary link-color
-function random_bg_color() {
+function random_color() {
     var v = Math.floor(Math.random()*6);
 
 
@@ -44,10 +41,10 @@ function random_bg_color() {
 
         $(document).ready(function(){
             //set complimentary color for "a" elements
-            $("a").css("color", "#ff8000");
+            $("a").css("color", "#ff7b00");
             //set complimentary color for "a" elements on hoover
             $("a").hover(function(){
-                $(this).css("background-color", "#ff8000");
+                $(this).css("background-color", "#ff7b00");
             }, function(){
                 $(this).css("background-color", "");
             });
@@ -55,7 +52,7 @@ function random_bg_color() {
     }
     else if(v==3) {
         //set background color
-        document.body.style.backgroundColor = '#ff8000';
+        document.body.style.backgroundColor = '#ff7b00';
 
         $(document).ready(function(){
             //set complimentary color for "a" elements
@@ -83,7 +80,7 @@ function random_bg_color() {
             });
         });
     }
-    else if(v==5) {
+    else if(v=5) {
         //set background color
         document.body.style.backgroundColor = '#ff00ff';
 
@@ -102,5 +99,5 @@ function random_bg_color() {
     // console.log(v);
 }
 
-random_bg_color();
+random_color();
 
