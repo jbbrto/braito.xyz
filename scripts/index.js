@@ -1,6 +1,7 @@
 // Generate random background color + complimentary link-color
 function random_color() {
-    var v = Math.floor(Math.random()*6);
+    /* var v = Math.floor(Math.random()*6); */
+    var v = 0;
 
 
     if(v==0) {
@@ -10,6 +11,7 @@ function random_color() {
         $(document).ready(function(){
             //set complimentary color for "a" elements
             $("a").css("color", "#ff0000");
+            $("p").css("color", "#ff0000");
             //set complimentary color for "a" elements on hoover
             $("a").hover(function(){
                 $(this).css("background-color", "#ff0000");
@@ -17,6 +19,14 @@ function random_color() {
                 $(this).css("background-color", "");
             });
 
+            /*
+            $("#test").hover(function(){
+                $("p").html("Reload");
+            }, function(){
+                $(this).css("background-color", "");
+                $("p").html("");
+
+            });*/
         });
 
     }
