@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1075f7dd-3c36-48bd-99e3-f7e0b9a82774" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/ad.html" beforeDir="false" afterPath="$PROJECT_DIR$/ad.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/test.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/ad.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/ad.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/scss/.sass-cache/f5efec90d06f5a290bec5cecaed1202857ccedc5/ad.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/styles/scss/.sass-cache/f5efec90d06f5a290bec5cecaed1202857ccedc5/ad.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/scss/ad.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/scss/ad.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/scss/ad.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/styles/scss/ad.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/scss/ad.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/scss/ad.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/ad.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -47,6 +41,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="705">
               <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="65" lean-forward="true" selection-start-line="40" selection-start-column="65" selection-end-line="40" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -102,10 +105,10 @@
         <option value="$PROJECT_DIR$/scripts/index.js" />
         <option value="$PROJECT_DIR$/styles/scss/main.scss" />
         <option value="$PROJECT_DIR$/scripts/ad1.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/styles/scss/ad.scss" />
         <option value="$PROJECT_DIR$/ad.html" />
         <option value="$PROJECT_DIR$/scripts/ad.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -523,12 +526,12 @@
       <workItem from="1560673495456" duration="3525000" />
       <workItem from="1560679432047" duration="1676000" />
       <workItem from="1560681324942" duration="3643000" />
-      <workItem from="1560688884679" duration="8811000" />
+      <workItem from="1560688884679" duration="8932000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68557000" />
+    <option name="totallyTimeSpent" value="68678000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
@@ -669,13 +672,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/styles/scss/index.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -700,6 +696,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ad.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -707,10 +710,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/ad.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        <state relative-caret-position="600">
+          <caret line="40" column="65" lean-forward="true" selection-start-line="40" selection-start-column="65" selection-end-line="40" selection-end-column="65" />
         </state>
       </provider>
     </entry>
