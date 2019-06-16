@@ -6,27 +6,19 @@
         <!-- Mobility First ?? -->
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
-        <!-- general CSS -->
+        <!-- general CSS
         <link rel="stylesheet" href="styles/css/main.css">
-        <link rel="stylesheet" href="styles/css/index.css">
+        <link rel="stylesheet" href="styles/css/index.css">-->
+        <link rel="stylesheet" href="styles/scss/ad.css">
 
-        <!-- individual site CSS -->
-        <style>
-            div {height: 90%; width: auto}
-            img {height: auto; width: 1200px;}
-            img:hover {
-                img: url('img/test.png');
-            }
-        </style>
-
-        <!-- Google AdSense scrip -->
+        <!--&lt;!&ndash; Google AdSense scrip &ndash;&gt;
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <script>
             (adsbygoogle = window.adsbygoogle || []).push({
                 google_ad_client: "ca-pub-4712054637274327",
                 enable_page_level_ads: true
             });
-        </script>
+        </script>-->
 
         <title>Dummy ad</title>
     </head>
@@ -36,14 +28,17 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
         <!-- JavaScript file for index.html -->
-        <script src="scripts/ad1.js"></script>
+        <script src="scripts/ad.js"></script>
 
-        <div class="container">
-            <div></div>
-            <div>
-                <img id="img1" src="img/ad_AX_plain.jpg" alt="Dummy ad">
+        <div class="grid-container">
+
+            <div id="item-text">
+                <a>Move mouse over the 'Google Dummy Ad' in order to reveal your very own personalized ad.</a>
             </div>
-            <div></div>
+            <div id="item-img">
+                <img class="img-ad" src="img/ad_AX_plain.jpg" alt="Dummy ad">
+            </div>
+
         </div>
 
     </body>

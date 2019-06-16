@@ -1,0 +1,33 @@
+@import "partials/normalize";
+@import "partials/variable";
+
+
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 500px 1000px 500px;
+}
+
+#item-text {
+  grid-column: 1 / span 2;
+  grid-row: 2 / span 1;
+
+  .a {
+    font-family: $font-family-nav;
+
+  }
+}
+
+.img-ad {
+  max-width: 100%;
+  height: auto;
+}
+
+#item-img {
+  grid-column: 3 / span 1;
+  grid-row: 2 / span 1;
+}
+
+
