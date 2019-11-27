@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4de0e107-cb0c-44ac-9a18-ba9beef7d783" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/scss/.sass-cache/f5efec90d06f5a290bec5cecaed1202857ccedc5/ad.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/styles/scss/.sass-cache/f5efec90d06f5a290bec5cecaed1202857ccedc5/ad.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/scss/ad.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/scss/ad.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/scss/ad.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/styles/scss/ad.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/scss/ad.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/scss/ad.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/scss/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/scss/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/scss/main.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,20 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="765">
+              <caret line="51" column="71" lean-forward="true" selection-start-line="51" selection-start-column="71" selection-end-line="51" selection-end-column="71" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/scss/index.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
+            <state relative-caret-position="642">
+              <caret line="68" column="24" lean-forward="true" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -139,12 +133,12 @@
       <workItem from="1560723205235" duration="1074000" />
       <workItem from="1563568785201" duration="50000" />
       <workItem from="1564497889069" duration="277000" />
-      <workItem from="1574812860927" duration="2127000" />
+      <workItem from="1574812860927" duration="2424000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3528000" />
+    <option name="totallyTimeSpent" value="3825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
@@ -218,17 +212,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/styles/scss/index.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="642">
+          <caret line="68" column="24" lean-forward="true" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/scss/index.scss">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
+        <state relative-caret-position="765">
+          <caret line="51" column="71" lean-forward="true" selection-start-line="51" selection-start-column="71" selection-end-line="51" selection-end-column="71" />
         </state>
       </provider>
     </entry>
