@@ -51,17 +51,16 @@
   .grid-container {
     display: grid;
     grid-template-columns: 10% 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
     grid-column-gap: 5%;
     height: 100vh;
     width: 100vw;
   }
 
 
-
   #item-text {
     grid-column: 2 / span 2;
-    grid-row: 2 / span 1;
+    grid-row: 2 ;
     align-self: center;
 
     font-family: $font-family-nav;
@@ -69,18 +68,23 @@
     font-size: 3em;
     text-transform: uppercase;
     width: 100%;
+    max-height: 100vw;
 
   }
 
   #item-img {
     grid-column: 4 / span 2;
-    grid-row: 2 / span 1;
+    grid-row: 2;
+    max-height: 100vw;
+
+  }
+
+  #ad {
+    max-height: 80%;
+    width: auto;
+    display: block;
     align-self: center;
 
-    #ad {
-      max-width: 80%;
-      height: auto;
-    }
   }
 
 
